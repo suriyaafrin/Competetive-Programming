@@ -27,6 +27,7 @@ int main() {
         } else {
             right = mid - 1;
         }
-          cout<<index<<endl;
+          
     }
+     cout<<index<<endl;
 }
